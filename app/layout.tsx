@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Should I Update Right Before Stream?",
-  description: "NO",
+  description: "Find out if you should update anything right before you go live.",
 };
 
 export default function RootLayout({
